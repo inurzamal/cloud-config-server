@@ -1,5 +1,7 @@
 # Connecting with the H2 Database
 spring:
+  application:
+    name: testing
   h2:
     console:
       enabled: 'true'
