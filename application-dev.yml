@@ -1,1 +1,7 @@
-
+# Connecting with the MongoDB Database
+spring:
+  data:
+    mongodb:
+      database: BookStore
+      port: '27017'
+      host: localhost
