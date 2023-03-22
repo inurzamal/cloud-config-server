@@ -1,4 +1,8 @@
-
+spring:
+  application:
+    name: default-app-config
+    
+    
 
 # spring:
 #     data:
