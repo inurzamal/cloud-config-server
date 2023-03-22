@@ -1,4 +1,4 @@
-# connecting with Eureka server
+# Connecting with Eureka Server
 eureka:
   client:
     service-url:
